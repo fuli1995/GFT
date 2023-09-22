@@ -1,0 +1,14 @@
+{
+  "dart.flutterHotReloadOnSave": "all",
+  "dart.hotReloadOnSave": "all",
+  "cSpell.words": [
+    "Cupertino",
+    "errcode",
+    "geolocator",
+    "Getx",
+    "hawb",
+    "middlewares",
+    "upgrader",
+    "vsync"
+]
+}
